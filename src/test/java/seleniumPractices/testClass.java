@@ -8,6 +8,8 @@ public class testClass {
 	public void Method1()
 	{
 		System.out.println("Method1");
+		int i=100;
+		System.out.println(i);
 	}
 	
 	
