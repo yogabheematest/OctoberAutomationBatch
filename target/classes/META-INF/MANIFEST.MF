@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: MY PC
+=======
+Built-By: Dell
+>>>>>>> 46cfc3fff523b55c24f29563fb119f1ab8ecabd9
 Build-Jdk: 19
 Created-By: Maven Integration for Eclipse
 
